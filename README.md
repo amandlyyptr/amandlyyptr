@@ -4,8 +4,20 @@
 
 ---
 
-## 🤝 Let's Connect!
+🤝 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amanda-aulia-putri-b437b1372)  
 - 📸 [Instagram](https://www.instagram.com/amndlyyptr)  
 - 📧 Email: amandaaulia867@email.com  
+
+
+📊 GitHub Activity & Stats
+
+<!-- Statistik umum -->
+![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandlyyptr&show_icons=true&theme=rose_pine)
+
+<!-- Streak aktivitas -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amandlyyptr&theme=rose_pine)
+
+<!-- Bahasa yang paling sering dipakai -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandlyyptr&layout=compact&theme=rose_pine)
