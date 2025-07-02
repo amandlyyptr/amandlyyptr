@@ -11,10 +11,10 @@ I believe technology has the power to make a positive impact when used wisely.
 
 🛠️ Skills
 
-- **Programming Languages**: Java, Dart (Flutter), SQL  
+- **Programming Languages**: Java, Dart (Flutter), SQL , Python
 - **UI/UX Design**: Figma  
 - **Database**: MySQL, Firebase  
-- **Tools**: Git, GitHub, VS Code, Android Studio  
+- **Tools**: Git, GitHub, VS Code
 
 🤝 Let's Connect!
 
