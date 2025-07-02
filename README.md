@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amanda+Aulia+Putri!;Information+Systems+Student+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
----
-
-# 👋 Hi, I'm Amanda Aulia Putri!
-
-🎓 Information Systems student at Universitas Trunojoyo Madura  
-💻 Interested in app development, UI/UX design, and data analysis  
-🌱 Currently learning Flutter, Java, SQL, and Figma  
-📍 Based in Indonesia  
 
 💬 About Me
 
