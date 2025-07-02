@@ -1,6 +1,6 @@
-<!-- Banner besar bergerak -->
+<!-- Banner GIF dari Giphy -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/27/4b/e1274b6d66fb5b8b6c6f8d6e9404e4a8.gif" alt="Coding Girl Banner" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlzYjRybWhicnF5aGZxZnVkcHRreDYzZmxuMDgycjRqbDIxMmh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Coding Girl GIF" width="800"/>
 </p>
 
 <!-- Animasi teks -->
@@ -16,11 +16,8 @@
 
 📊 GitHub Activity & Stats
 
-<!-- Statistik umum -->
 ![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandlyyptr&show_icons=true&theme=rose_pine)
 
-<!-- Streak aktivitas -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amandlyyptr&theme=rose_pine)
 
-<!-- Bahasa yang paling sering dipakai -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandlyyptr&layout=compact&theme=rose_pine)
