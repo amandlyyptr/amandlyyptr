@@ -20,5 +20,5 @@ I believe technology has the power to make a positive impact when used wisely.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amanda-aulia-putri-b437b1372)  
 - 📸 [Instagram](https://www.instagram.com/amndlyyptr)  
-- 📧 Email: amandaaulia@email.com  
+- 📧 Email: amandaaulia867@email.com  
 
