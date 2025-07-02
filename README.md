@@ -10,6 +10,11 @@
 - 📸 [Instagram](https://www.instagram.com/amndlyyptr)  
 - 📧 Email: amandaaulia867@email.com  
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e1/27/4b/e1274b6d66fb5b8b6c6f8d6e9404e4a8.gif" alt="Coding Girl Banner" width="800"/>
+</p>
+
+
 
 📊 GitHub Activity & Stats
 
